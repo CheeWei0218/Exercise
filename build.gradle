@@ -32,7 +32,7 @@ test {
 
  jar {
     manifest {
-        attributes 'Main-Class': 'com.example.Calculator'        
+        attributes 'Main-Class': 'com.example.App'        
     }
 
     from sourceSets.main.output  // Include compiled classes in the JAR
