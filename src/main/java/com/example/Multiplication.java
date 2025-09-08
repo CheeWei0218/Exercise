@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 // Concrete implementation of multiplication
 public class Multiplication implements Operation {

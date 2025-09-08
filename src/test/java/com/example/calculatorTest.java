@@ -1,13 +1,6 @@
 package com.example;
 
 import org.junit.Test;
-
-import main.java.com.example.Addition;
-import main.java.com.example.Subtraction;
-import main.java.com.example.Multiplication;
-import main.java.com.example.Division;
-import main.java.com.example.Calculator;
-
 import static org.junit.Assert.*;
 
 public class CalculatorTest {

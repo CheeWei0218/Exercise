@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 // Interface for basic arithmetic operations
 public interface Operation {

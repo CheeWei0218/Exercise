@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 // Concrete implementation of addition
 public class Addition implements Operation {

@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 // Concrete implementation of division
 public class Division implements Operation {

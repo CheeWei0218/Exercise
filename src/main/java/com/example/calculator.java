@@ -1,9 +1,4 @@
-package main.java.com.example;
-import main.java.com.example.Operation;
-import main.java.com.example.Addition;
-import main.java.com.example.Subtraction;
-import main.java.com.example.Multiplication;
-import main.java.com.example.Division;
+package com.example;
 
 // Calculator class that uses operations
 public class Calculator {

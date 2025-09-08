@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 // Concrete implementation of subtraction
 public class Subtraction implements Operation {
